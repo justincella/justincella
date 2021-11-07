@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+[LinkedIn](https://linkedin.com/in/justincella) &bull; [Website](https://justincella.com/)
+
+---
+- 🌱 I’m currently learning CompTIA Network+
+
 
 <!--
 **justincella/justincella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
