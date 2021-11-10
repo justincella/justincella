@@ -3,7 +3,7 @@
 [LinkedIn](https://linkedin.com/in/justincella) &bull; [Website](https://justincella.com/)
 
 ---
-- 🌱 I’m currently learning CompTIA Network+
+- 🌱 I’m currently learning CompTIA Network+ Certification
 
 
 <!--
